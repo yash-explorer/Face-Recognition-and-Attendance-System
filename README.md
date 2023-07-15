@@ -9,7 +9,9 @@ The hosting part of this project is done on another repository [Live Attendence 
 [Website link](https://drab-dog-sock.cyclic.app/)
 
 
-[Demo video](https://drive.google.com/file/d/1tegnVCj33OwTzDeRpOOWmgAuFKTDTYA9/view?usp=sharing)
+[Demo video](https://github.com/yash-explorer/Face-Recognition-and-Attendance-System/assets/76256893/5fa69bbc-164d-4d8f-830f-6fc9c03c6c83)
+
+
 
 
 
