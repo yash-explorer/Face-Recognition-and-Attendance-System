@@ -115,7 +115,7 @@ dict = df.to_dict()
 print(dict)
 
 #myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-myclient = pymongo.MongoClient("mongodb+srv://yash1:yash1@cluster0.txq9fum.mongodb.net/test")
+myclient = pymongo.MongoClient("mongodb+srv://yash1:<password>@cluster0.txq9fum.mongodb.net/test") #put your connection link here
 # use database named "organisation"
 #mydb = myclient["beginer"]
 mydb = myclient["test"]
@@ -128,8 +128,7 @@ mycol = mydb["pain"]
 # insert a document to the collection
 x = mycol.insert_many(dict.values())
 
-# id returned by insert_many not working
-#print("Document inserted with id: ", x.inserted_id)
+
 
 print("\nDocuments in pain collection\n----------------------------------")
 # print all the documents in the collection
