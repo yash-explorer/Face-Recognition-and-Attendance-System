@@ -27,3 +27,6 @@ Limitations:
 
 
 3> Accuracy of the algorithm can be increased to get more accurate results.
+
+
+4>digital images are also marked present.
