@@ -6,7 +6,7 @@ face recognition library is used to recognize faces. This library uses a neural 
 The hosting part of this project is done on another repository [Live Attendence View](https://github.com/yash-explorer/LiveAttandanceView.git)
 
 
-[Website link](https://drab-dog-sock.cyclic.app/)
+[Click here to see the frontend of site](https://drab-dog-sock.cyclic.app/)
 
 
 [Demo video](https://github.com/yash-explorer/Face-Recognition-and-Attendance-System/assets/76256893/5fa69bbc-164d-4d8f-830f-6fc9c03c6c83)
